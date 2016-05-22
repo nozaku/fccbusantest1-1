@@ -1,5 +1,6 @@
 function reverse(str) {
-  return str.split("").reverse().join("")
+  answer = str.split("").reverse().join("")
+  return answer
 }
 
 reverse("hello")
