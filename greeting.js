@@ -3,4 +3,4 @@ function reverse(str) {
   return answer
 }
 
-reverse("hello")
+reverse("butts")
