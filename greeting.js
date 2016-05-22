@@ -5,19 +5,5 @@ function reverse(str) {
 
 reverse("butts")
 
-var butts = "My Butt!"
+//I made it. Yeah
 
-function whatAmISittingOn () {
-	return butts;
-}
-
-	whatAmISittingOn();
-	
-	function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
-  var result = "";
-  // Your code below this line
-  result = "The " + myAdjective + " " + myNoun + " " + myAdverb + " " + myVerb + " towards the butt.";
-
-  // Your code above this line
-  return result;
-}
